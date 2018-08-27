@@ -1,5 +1,5 @@
 # blue_skies
-Udemy Spark Excercises
+Udemy Spark Machine Learning Excercises
 
 Programming Language: PySpark
 
